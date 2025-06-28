@@ -1,0 +1,11 @@
+# runtime / local
+.env
+node_modules/
+.next/
+data/db.json            # local test data – optional
+*.log
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
