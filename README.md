@@ -1,6 +1,9 @@
 # 🎥🤖 KIU Meeting Insights  
 *Automate the boring, keep the insights.*
 
+
+showcase: https://youtu.be/ZYhAK0J7Tko
+
 ---
 
 ## 🚀 TL;DR
